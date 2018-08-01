@@ -1,14 +1,14 @@
 
-TechEvent
-	https://www.facebook.com/groups/technicaleventgroup
-	https://www.facebook.com/globaltechevent
+TechEvent<br>
+	https://www.facebook.com/groups/technicaleventgroup<br>
+	https://www.facebook.com/globaltechevent<br>
 
-TechPage
-	https://www.facebook.com/technowlarity/
-	https://www.facebook.com/GlobalTechSavvy/
+TechPage<br>
+	https://www.facebook.com/technowlarity/<br>
+	https://www.facebook.com/GlobalTechSavvy/<br>
 
-TechTalk
-	https://www.facebook.com/GlobalTechTalks/
-	https://www.facebook.com/groups/globaltechtalks/
-	https://twitter.com/globaltechtalks
-	https://t.me/globaltechtalks
+TechTalk<br>
+	https://www.facebook.com/GlobalTechTalks/<br>
+	https://www.facebook.com/groups/globaltechtalks/<br>
+	https://twitter.com/globaltechtalks<br>
+	https://t.me/globaltechtalks<br>
